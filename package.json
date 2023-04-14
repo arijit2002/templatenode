@@ -1,22 +1,22 @@
 {
-  "name": "diversion_backend_admin",
+  "name": "template",
   "version": "1.0.0",
-  "description": "Diversion Admin Backend",
-  "main": "index.js",
+  "description": "node template",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arijit2002/Diversion_backend_admin.git"
+    "url": "git+https://github.com/arijit2002/templatenode.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arijit2002/Diversion_backend_admin/issues"
+    "url": "https://github.com/arijit2002/templatenode/issues"
   },
-  "homepage": "https://github.com/arijit2002/Diversion_backend_admin#readme",
+  "homepage": "https://github.com/arijit2002/templatenode#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
